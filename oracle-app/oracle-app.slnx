@@ -1,0 +1,20 @@
+﻿<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/test/" />
+  <Folder Name="/_modules/" />
+  <Folder Name="/_modules/calendar/" />
+  <Folder Name="/_modules/calendar/src/" />
+  <Folder Name="/_modules/calendar/test/" />
+  <Folder Name="/_modules/contacts/" />
+  <Folder Name="/_modules/contacts/src/" />
+  <Folder Name="/_modules/contacts/test/" />
+  <Folder Name="/_modules/identity/" />
+  <Folder Name="/_modules/identity/src/" />
+  <Folder Name="/_modules/identity/test/" />
+  <Folder Name="/_shared/" />
+  <Folder Name="/_shared/auth/" />
+  <Folder Name="/_shared/auth/src/" />
+  <Folder Name="/_shared/auth/test/" />
+  <Folder Name="/_shared/core/" />
+  <Folder Name="/_shared/data/" />
+</Solution>
